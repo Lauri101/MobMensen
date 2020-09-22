@@ -1,0 +1,15 @@
+.card{
+    background-color: #FDA97C;
+    display: grid;
+    grid-gap: 0px;
+    align-items: top;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 10px; 
+   
+}
+#eis{
+
+    width: 90%;
+    height: 80%;
+}

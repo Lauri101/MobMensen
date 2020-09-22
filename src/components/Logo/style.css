@@ -1,0 +1,38 @@
+.logo{
+    margin-top: 10%;
+    
+    text-align: center;
+    background-color: #FDA97C;
+}
+.search form{
+    align-items: center;
+    display: flex;
+    margin: 3%;
+    background-color: #FDA97C;
+}
+input{
+    background-color: #FDA97C;
+}
+.searchInput{
+    border: 0;
+    width: 0;
+    transition: width 0.5s ease-in;
+
+}
+form{
+    float: right;
+    
+}
+.searchInput.active{
+    width: 150px;
+}
+.searchInput:focus{
+    outline:none;
+}
+.searchIcon{
+    cursor: pointer;
+    background-color: #FDA97C;
+}
+#HellsMensenLogohome{
+    width: 10%;
+}

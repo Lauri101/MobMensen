@@ -1,0 +1,94 @@
+.main-box {
+    align-items: center;
+    float: inherit;
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+  .mdc-top-navigation-list {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    background-color: #fda97c;
+    border-top: 1px solid #3e3a44;
+    box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.2);
+  }
+  .mdc-top-navigation-list-item-title {
+    margin-top: 10px;
+    margin-bottom: auto;
+    justify-content: left;
+    background-color: #fda97c;
+    font-size: 28px;
+    color: #3e3a44;
+  }
+  .infobeschreibung {
+    flex: 1 1 0;
+    display: flex;
+    margin-left: 5%;
+    justify-content: left;
+    background-color: #fda97c;
+    min-width: 200px;
+    font-size: 22px;
+    color: white;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    
+  }
+  #hintergrund {
+    background-color: #fda97c;
+  }
+  #iconinfoabstand {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 5%;
+  }
+  #hintergrund2 {
+    background-color: #fda97c;
+  }
+  #iconinfoabstand2 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 5%;
+  }
+  #hintergrund3 {
+    background-color: #fda97c;
+  }
+  #iconinfoabstand3 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 5%;
+  }
+  #hintergrund4 {
+    background-color: #fda97c;
+  }
+  #iconinfoabstand4 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 5%;
+  }
+  #hintergrund5 {
+    background-color: #fda97c;
+  }
+  #iconinfoabstand5 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 5%;
+  }
+  #hintergrund6 {
+    background-color: #fda97c;
+  }
+  #iconinfoabstand6 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 5%;
+  }
+  #hintergrund7 {
+    background-color: #fda97c;
+  }
+  #iconinfoabstand7 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 5%;
+  }
+  

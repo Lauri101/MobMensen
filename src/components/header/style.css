@@ -1,0 +1,31 @@
+.oben {
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+  top: 0;
+  width: 100%;
+  height: 56px;
+  background-color: #fda97c;
+}
+.oben-navigation {
+    display: inline-block;
+    margin: 0 10px;
+    color:#3E3A44 ;
+    font-size: 26px;
+    letter-spacing: 5px;
+    margin-top: 3%;
+  
+}
+.oben-navigation div:hover{
+    color: #fda97c;
+}
+
+#HellsMensenLogo {
+  width: 45px;
+  height: 45px;
+  margin-right: 17px;
+  margin-top: 17px;
+  position: absolute;
+  bottom: 5px;
+  right: 20px;
+}
