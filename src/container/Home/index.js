@@ -7,7 +7,7 @@ import React from 'react'
 
 const Home = (props) => {
   return(
-    <div>Hallo Home</div>
+    <div>Hallo hallo hallo test</div>
    )
 
  }
